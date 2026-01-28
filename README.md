@@ -7,3 +7,8 @@ This repo contains my red teaming work focused on LLM safety testing: prompt att
 * **Writeups**: clear problem framing, approach, and outcomes
 * **Artifacts**: sanitized prompts, notes, and reports
 * **Evals**: rubric-based reasoning and consistency checks
+
+* ## Featured Artifact
+
+- [Artifact 001 — Rubric Calibration & Consistency Analysis](artifacts/001-rubric-calibration.md)
+
