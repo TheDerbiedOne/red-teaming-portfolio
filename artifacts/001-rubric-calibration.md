@@ -1,3 +1,5 @@
+This case study documents a structured rubric calibration process applied to LLM output evaluation. The focus was improving scoring consistency, reducing interpretive ambiguity, and strengthening reasoning transparency across repeated evaluation passes.
+
 # Artifact 001 — Rubric Calibration & Consistency Analysis
 
 ## Context
