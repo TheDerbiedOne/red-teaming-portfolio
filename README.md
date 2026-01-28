@@ -19,3 +19,13 @@ All artifacts are intentionally sanitized to prevent misuse while preserving tec
 
 - [Artifact 001 — Rubric Calibration & Consistency Analysis](artifacts/001-rubric-calibration.md)
 
+  ---
+
+## Professional Notes
+
+- All examples are sanitized and designed to avoid enabling misuse.
+- Focus is on methodology, reproducibility, and reliability under variation.
+- This repository reflects ongoing structured experimentation in LLM safety and evaluation design.
+
+For collaboration or discussion, feel free to connect via GitHub.
+
