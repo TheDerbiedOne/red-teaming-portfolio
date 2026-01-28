@@ -1,8 +1,15 @@
 # Red Teaming Portfolio
 
-This repo contains my red teaming work focused on LLM safety testing: prompt attack/defense, evaluation design, and rubric-based analysis. I share writeups and *sanitized* examples that demonstrate methodology, findings, and practical lessons—without exposing proprietary data or enabling misuse.
+This repository documents structured red teaming work focused on large language model (LLM) reliability, safety testing, and evaluation design.
 
-## What you'll find here (coming next)
+The emphasis is on:
+- Adversarial prompt testing (sanitized)
+- Rubric-based evaluation and calibration
+- Consistency and regression analysis
+- Practical mitigation strategies
+
+All artifacts are intentionally sanitized to prevent misuse while preserving technical insight and methodological rigor.
+
 
 * **Writeups**: clear problem framing, approach, and outcomes
 * **Artifacts**: sanitized prompts, notes, and reports
